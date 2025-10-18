@@ -72,4 +72,6 @@ Bu mod açıkken:
 
 ## Not
 
+Müzik ve skull imageleri kendiniz images ve skulls dosyaları altına koymalısınız
+
 Uygulama yönetici yetkisi gerektirebilir (keyboard kütüphanesi için).
