@@ -1,0 +1,8 @@
+{
+  "hotkey": "pagedown",
+  "music_duration": 2.5,
+  "skull_display_time": 2.0,
+  "drop_only_mode": true,
+  "pre_drop_mode": true,
+  "pre_drop_seconds": 2.0
+}

@@ -1,0 +1,71 @@
+{
+  "songs": [
+    {
+      "file": "AL NACER!.mp3",
+      "segments": [
+        {"start": 0, "name": "intro"},
+        {"start": 13, "name": "beforedrop"},
+        {"start": 15, "name": "drop", "is_drop": true}
+      ]
+    },
+    {
+      "file": "CUANDO SE TE MOJA LA TAREA (FUNK).mp3",
+      "segments": [
+        {"start": 0, "name": "intro"},
+        {"start": 15, "name": "beforedrop"},
+        {"start": 122, "name": "outro"},
+        {"start": 20, "name": "drop", "is_drop": true}
+      ]
+    },
+    {
+      "file": "LXNGVX - BRUXO FANTASMA (Super Slowed).mp3",
+      "segments": [
+        {"start": 0, "name": "intro"},
+        {"start": 6, "name": "beforedrop"},
+        {"start": 35, "name": "beforedrop2"},
+        {"start": 9, "name": "drop", "is_drop": true}
+      ]
+    },
+    {
+      "file": "Montagem Bionica Espectral.mp3",
+      "segments": [
+        {"start": 0, "name": "intro"},
+        {"start": 14, "name": "beforedrop"},
+        {"start": 17, "name": "drop", "is_drop": true}
+      ]
+    },
+    {
+      "file": "MONTAGEM VOZES PROFUNDAS (TikTok Version).mp3",
+      "segments": [
+        {"start": 0, "name": "intro"},
+        {"start": 2, "name": "beforedrop"},
+        {"start": 5, "name": "drop", "is_drop": true}
+      ]
+    },
+    {
+      "file": "O MELHOR NO QUE FAZ 3.0 - DJ BRYAN 7  (SUPER SLOWED  REVERB) [BRAZILIAN PHONK].mp3",
+      "segments": [
+        {"start": 0, "name": "intro"},
+        {"start": 7, "name": "beforedrop"},
+        {"start": 11, "name": "drop", "is_drop": true}
+      ]
+    },
+    {
+      "file": "PASSO BEM SOLTO (Slowed).mp3",
+      "segments": [
+        {"start": 0, "name": "intro"},
+        {"start": 10, "name": "beforedrop"},
+        {"start": 16, "name": "drop", "is_drop": true}
+      ]
+    },
+    {
+      "file": "Se Paciente Funk.mp3",
+      "segments": [
+        {"start": 0, "name": "intro"},
+        {"start": 0, "name": "beforedrop"},
+        {"start": 4, "name": "drop", "is_drop": true}
+      ]
+    }
+
+  ]
+}
